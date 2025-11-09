@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Desenhos: Personagens — Rick & Morty</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header class="site-header">
+<h1>🎨 Desenhos: Personagens Clássicos</h1>
+<p class="subtitle">Exemplo com a <strong>Rick &amp; Morty API</strong> — cards dinâmicos criados via JavaScript</p>
+<div class="controls">
+<input id="searchInput" placeholder="Pesquisar personagem..." />
+<select id="statusFilter">
+<option value="">Todos os status</option>
+<option value="Alive">Alive</option>
+<option value="Dead">Dead</option>
+<option value="unknown">unknown</option>
+</select>
+</div>
+</header>
+
+
+<main>
+<section id="cardsContainer" class="cards-grid" aria-live="polite"></section>
+
+
+<nav class="pagination">
+<button id="prevBtn">◀ Anterior</button>
+<span id="pageInfo">Página 1</span>
+<button id="nextBtn">Próxima ▶</button>
+</nav>
+</main>
+
+
+<footer class="site-footer">Feito para a disciplina — Web development front-end</footer>
+
+
+<script src="script.js" defer></script>
+</body>
+</html>
