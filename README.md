@@ -32,5 +32,6 @@ Deploy via GitHub Pages:
 
 ## 📸 Prévia do Projeto
 
-![Preview](./imagem.png)
+![Preview do Projeto](./imagem.png)
+
 
