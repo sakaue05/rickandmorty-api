@@ -30,8 +30,5 @@ Deploy via GitHub Pages:
 
 👉 **https://sakaue05.github.io/rickandmorty-api/**
 
-## 📸 Prévia do Projeto
-
-![Preview do Projeto](./imagem.png)
 
 
