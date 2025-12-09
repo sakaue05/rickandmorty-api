@@ -29,3 +29,8 @@ Projeto desenvolvido para prática de HTML, CSS e JavaScript, com foco em manipu
 Deploy via GitHub Pages:
 
 👉 **https://sakaue05.github.io/rickandmorty-api/**
+
+## 📸 Prévia do Projeto
+
+![Preview](./imagem.png)
+
